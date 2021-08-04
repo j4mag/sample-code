@@ -1,0 +1,1 @@
+This matlab script for system optimization was written for a homework assignment and thus is largely limited in scope to graph and parameter generation, and lacks robust documentation, as it is not intended for reuse.

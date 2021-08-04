@@ -1,0 +1,1 @@
+This is an example assignment of some code written for an engineering assignment, decoding a simulated radio signal using matlab. An example of figures and outputs can be seen at the end of the pdf, ESE471lab6.pdf
